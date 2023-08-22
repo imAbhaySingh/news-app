@@ -1,0 +1,30 @@
+
+.nav{
+    background-color: red;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:center
+}
+.nav-items {
+    display: flex;
+    min-width: 30vw;
+    margin-right: 6vw;
+    flex-direction: row;
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+.heading{
+    color: black;
+    padding:0 3rem;
+    text-decoration: underline;
+}
+
+.logo{
+    width: 100px;
+    width: 100px;
+    margin-left: 10vw;
+}
